@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: FlatIron 
 header-img: img/home-bg.png
 email: khitx@icloud.com
 copyright_name: khitx
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Community-Powered Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  khitx
